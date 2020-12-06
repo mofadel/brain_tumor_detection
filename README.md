@@ -35,7 +35,7 @@
 - [License](#license)
 
 ## Quick start
-Our project is a deep learning based image segmentation solution to first detect the brain tumor and predict the likelihood of tumor existence.
+Our project is a deep learning based image segmentation solution to first detect the brain tumor and then predict the likelihood of tumor existence.
 - To begin, clone the repo: 
 ``` 
 git clone link_to_the_repo && cd folder_name 
@@ -81,7 +81,7 @@ Another alternative to train and test a model is to run the following script.
 ```
 !python main.py
 ```
-##### Please change $DATA_PATH variable at the very beginning of the notebook (if you are using it) to the path containing the MRI Brain Tumor detection data.
+##### Please change $DATA_PATH variable at the very beginning of the notebook (if you are using it) to the path containing the Brain Tumor detection data.
 ##### If you are running the script the $DATA_PATH variable can be located in the main.py file.
 
 
