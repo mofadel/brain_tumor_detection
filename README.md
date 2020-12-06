@@ -1,7 +1,7 @@
 # Test
 <p align="center">
   
-   <img src="https://github.com/sashakhaf/Test/blob/main/images%20(1).jpeg"  width=72 height=72>
+   <img src="https://github.com/mofadel/brain_tumor_detection/blob/main/images%20(1).jpeg"  width=72 height=72>
  
 
   <h3 align="center">MRI Brain Tumor Detection </h3>
@@ -75,7 +75,7 @@ The data can be found in this link: <a href="https://www.kaggle.com/mateuszbuda/
 
 ```
 ## How to Train & Test
-This <a href="https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation
+This <a href="https://github.com/mofadel/brain_tumor_detection/blob/main/Brain-mri_RESTNET_UNET_MODEL.ipynb
 ">jupyter notebook</a> contains a simple tutorial on how to load the data, train and test the model.
 Another alternative to train and test a model is to run the following script.
 ```
@@ -124,5 +124,5 @@ If you want to contact me you can reach me at <fadelthior@gmail.com>.
 
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
-This project uses the following license: [MIT licence file](https://github.com/sashakhaf/Test/blob/main/LICENSE).
+This project uses the following license: [MIT licence file](https://github.com/mofadel/brain_tumor_detection/blob/main/LICENSE).
 
