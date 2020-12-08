@@ -92,7 +92,7 @@ an options reference for bonus points!
 
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
 
-To contribute to <project_name>, follow these steps:
+To contribute to MRI Brain Tumor Detection, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
