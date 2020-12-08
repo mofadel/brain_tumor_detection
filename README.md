@@ -1,4 +1,3 @@
-# Test
 <p align="center">
   
    <img src="https://github.com/mofadel/brain_tumor_detection/blob/main/images%20(1).jpeg"  width=72 height=72>
