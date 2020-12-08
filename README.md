@@ -36,6 +36,14 @@
 
 ## Quick start
 Our project is a deep learning based image segmentation solution to first detect the brain tumor and then predict the likelihood of tumor existence.
+### Problem definition
+The lack of advanced technology in Africa is noticed in many fields (agriculture, finance etc.)
+In Healthcare, the analysis of Magnetic Resonance Imaging (MRI) is still done by human intervention.  This sometimes leads to misinterpretations when the cancer is at early stage. We are interested here in the case of brain tumor. 
+Brain Cancer detection is an urgent problem since its death rate is comparable the combined deaths from HIV, tuberculosis and malaria in West Africa.
+The MRI scan takes between 30-45 mn in average. But the process of analyzing images can take up to 3 days to get the results when it is a cancer case.
+In order to make a reliable and rapid analysis, our prototype is designed to quickly detect brain tumors. Our approach is Computer vision based which has shown enormous performance in fields such as Self-Driving cars.
+
+
 - To begin, clone the repo: 
 ``` 
 git clone link_to_the_repo && cd folder_name 
