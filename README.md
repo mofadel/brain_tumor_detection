@@ -65,7 +65,7 @@ Ensure you have met the following requirements by installing the following packa
 * torch==1.6.0
 * scikit_learn==0.23.2
 
-It can be done through this command line: ```pip install -r requirements```
+It can be done through this command: ```pip install -r requirements```
 ## Dataset
 
 The data can be found in this link: <a href="https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation
