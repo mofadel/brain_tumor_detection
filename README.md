@@ -65,13 +65,13 @@ Ensure you have met the following requirements by installing the following packa
 * torch==1.6.0
 * scikit_learn==0.23.2
 
-It can be done through this command line: ```pip install -r requirements```
+It can be done through this command: ```pip install -r requirements```
 ## Dataset
 
 The data can be found in this link: <a href="https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation
 ">Brain MRI segmentation</a>. It can be loaded following these steps:
 
-- Generate a key in you kaggle account.
+- Generate a key in your kaggle account.
 - run these commands:
 
 ``` 
@@ -90,9 +90,6 @@ Another alternative to train and test a model is to run the following script.
 ##### Please change $DATA_PATH variable at the very beginning of the notebook (if you are using it) to the path containing the Brain Tumor detection data.
 ##### If you are running the script the $DATA_PATH variable can be located in the main.py file.
 
-
-Add run commands and examples you think users will find useful. Provide
-an options reference for bonus points!
 
 ## Contributing
 
